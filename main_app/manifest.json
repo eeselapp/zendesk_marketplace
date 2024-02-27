@@ -1,0 +1,15 @@
+{
+    "name": "AI Agent for Zendesk",
+    "author": {
+      "name": "eesel, Inc",
+      "email": "hi@eesel.app",
+      "url": "https://eesel.ai"
+    },
+    "location": {
+      "support": {
+      }
+    },
+    "defaultLocale": "en",
+    "marketingOnly": true,
+    "private": false
+  }
