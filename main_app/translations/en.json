@@ -1,8 +1,8 @@
 {
     "app": {
       "name": "AI Agent for Zendesk",
-      "short_description": "Respond to customers or give your agents a copilot with AI Agent for Zendesk",
-      "long_description": "__long_description_goes_here__",
+      "short_description": "Get the ultimate AI Agent that be a co-pilot for your support team, and even handle Tier 1 tickets",
+      "long_description": "Add an AI agent to your team. Get eesel AI to leave internal notes with a draft reply for all incoming tickets. You can also get it to leave external replies, and automatically escalate to humans as needed.",
       "installation_instructions": "Simply click the install button"
     }
 }
